@@ -48,16 +48,16 @@ Passionate about Ethereum, I've learned Solidity to be able to create and deploy
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>Github</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/github-icon.svg">
-      </td>
-      <td width="25%" align="center">
         <span>VS Code</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
       <td width="25%" align="center">
         <span>TailwindCSS</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Chai</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/chai.svg">
       </td>
       <td width="25%" align="center">
         <span>Mocha</span><br><br><br>
