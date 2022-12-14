@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
+I'm Damien, living in Nantes, France. :fr:
+
+Developer since 2018. I've mainly worked as a software developer, using Delphi IDE to build features for a WMS (Warehouse Management System). I also enjoy training myself and learn more about new technologies, especially on web technologies such as React.JS
+
+Passionate about Ethereum, I've learned Solidity to be able to create and deploy smart contracts on EVM-compatible blockchains.
 
 <!--
 **damienlachaume/damienlachaume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
